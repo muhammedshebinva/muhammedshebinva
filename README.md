@@ -1,42 +1,75 @@
-Hi 👋 My name is Shebin
-=======================
 
-Full-Stack Web Developer
-------------------------
 
-A self-taught, passionate and fast-learner full-stack developer from Kerala, India . Now I'm a final year student of undergrad Computer Science. I love to work with new technologies and developing web applications. Currently, I am improving my dynamic programming skills . I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web development.
+<h3 align="center">
+    Hello world!&nbsp;
+<!-- gvhb -->
+    &nbsp;Welcome to SHEBIN's profile!
 
-* ✉️  You can contact me at [muhammedshebinva@gmail.com](mailto:muhammedshebinva@gmail.com)
-* 🧠  I'm learning React
+</h3>
 
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<p align="center">
+<!--   <em>
+    I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
+  </em> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;keep+looking,+and+don't+settle&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="MERN Stack Developer">
 </p>
 
+<p align="center">
+<!--   <a href="https://t.me/shebinvs"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://www.instagram.com/shebin_vs"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/+919961335345"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   <a href="https://discord.com/users/muhammedshebinva#2462"><img width="32px" alt="Discord" title="Discord" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://www.linkedin.com/in/muhammedshebinva/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/shebin_vs"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   <a href="https://dev.to/shebinvs"><img width="32px" alt="dev.to" title="dev.to" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--   <a href="https://www.buymeacoffee.com/shebinvs"><img width="32px" alt="buymeacoffee" title="buymeacoffee" src="https://spiritedisle.ie/resources/uploads/2021/09/download1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://github.com/muhammedshebinva/"><img width="32px" alt="github" title="github" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--     <a href="https://gitlab.com/muhammedshebinva"><img width="32px" alt="gitlab" title="gitlab" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="mailto:mail.muhammedshebinva@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+</p>
 
-### Socials
+<br>
 
-<p align="left"> <a href="https://www.github.com/muhammedshebinva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shebin_vs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-shebin-va-06978b213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shebin_vs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="#"><img align="right" width="25%" height="25%" src="assets/coding.gif"/></a>
 
-### Badges
+<img alt="Shebin's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=muhammedshebinva&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
 
-<b>My GitHub Stats</b>
+<br>
+<br>
 
-<a href="http://www.github.com/muhammedshebinva"><img src="https://github-readme-stats.vercel.app/api?username=muhammedshebinva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muhammedshebinva's GitHub stats" /></a>
+<a href=""><img alt="Shebin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammedshebinva&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="Shebin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshebinva&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,muhammedshebinva.github.io" /></a>
 
-<a href="https://github.com/muhammedshebinva" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshebinva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/typescript.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/php.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
+</p>
+
+<h3 align="center">Softwares</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>&nbsp;<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/maria-db.png"/>
+</p>
+
+                                                                                           
+
 
 
