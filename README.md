@@ -23,7 +23,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="https://discord.com/users/muhammedshebinva#2462"><img width="32px" alt="Discord" title="Discord" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://www.linkedin.com/in/muhammedshebinva/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
+  <a href="https://www.linkedin.com/in/muhammed-shebin-va-06978b213/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/shebin_vs"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
